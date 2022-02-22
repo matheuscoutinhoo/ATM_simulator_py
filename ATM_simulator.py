@@ -1,12 +1,3 @@
-'''
-A program that simulates an ATM with the following options:
-1 – Deposit money (deposit of any amount)
-2 - Check balance
-3 – Withdraw money (only if you have a balance)
-4 –Exit (The program only ends if the user enters the option)
-
-'''
-
 
 opt= int(input('Hello. How can we help you?\n[1] - Deposit\n[2] - Check balance\n[3] - Withdraw\n[4] - exit '))
 balance = 0
