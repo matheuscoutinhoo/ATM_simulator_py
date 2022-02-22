@@ -1,4 +1,4 @@
-## ATTM SIMULATOR
+## ATM SIMULATOR
 ### A program that simulates an ATM with the following options:
 1 – Deposit money (deposit of any amount)<br>
 2 - Check balance<br>
